@@ -131,3 +131,6 @@ If you want, I can:
 - Add DB persistence (sqlite for demo) and a Dockerfile for reproducible deployment
 
 I wrote the README in a natural, first-person style to reflect a real developer’s notes — tweak any phrasing to match your voice before submitting.
+
+# ChatApp.sy
+come enjoy our community Chat syrian ! 
